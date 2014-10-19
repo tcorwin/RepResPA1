@@ -14,7 +14,7 @@ Set the working directory where the CSV file is located.
 setwd("U:/R Directory/RepRes PA1")
 ```
 
-Load the data
+Load the data 
 
 ```{r}
 library("foreign")
