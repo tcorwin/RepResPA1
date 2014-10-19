@@ -27,7 +27,7 @@ library("foreign")
 data<-read.csv("activity.csv", header=T)
 attach(data)
 summary(data)
-```
+``` 
 
 ```
 ##      steps                date          interval     
